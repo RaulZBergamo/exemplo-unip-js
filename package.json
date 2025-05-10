@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-rpa-challenge",
+  "version": "1.0.0",
+  "description": "Desafio de automação com Puppeteer para preencher formulários no RPA Challenge.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "puppeteer-rpa-challenge": "file:",
+    "xlsx": "^0.18.5"
+  }
+}
